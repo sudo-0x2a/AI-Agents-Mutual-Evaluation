@@ -42,7 +42,7 @@ Agent 2 provided a better answer (score: 8):
 The current weather in Boston is partly cloudy with a temperature of approximately 61°F (16.1°C). As of now, there isn't any precipitation expected. The wind is coming from the SSE direction at around 6.5 mph (4.0 kph). The UV index is quite good with a rating of 4.4, and the humidity is at 44%. The visibility is pretty good with around 9 miles (16 km).
 ```
 
-## Flowchart for the Agents:
+## Flowchart of the Agents:
 ```mermaid
 graph TD;
         __start__([<p>__start__</p>]):::first
