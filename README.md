@@ -17,8 +17,6 @@ This project is a refined version of my school project. It is a simple and strai
 
 ## Example Output:
 ```
-Question to Agents: How is the weather in Boston today?
-
 ----------<< Q&A >>----------
 Question: How is the weather in Boston today?
 
