@@ -60,7 +60,7 @@ graph TD;
 ```
 
 ## The Project Tested With the Following Setup:
-- Hardware: Macbook Pro 14'' M4 pro - 12C16G with 24GB RAM
+- Hardware: Macbook Pro 14 M4 pro - 12C16G with 24GB RAM
 - Python Version: 3.11.12
 - Models: [qwen2.5-7b-instruct-1m](https://huggingface.co/Qwen/Qwen2.5-7B-Instruct-1M) with 6-bit quantization and [hermes-3-llama-3.1-8b](https://huggingface.co/NousResearch/Hermes-3-Llama-3.1-8B) with 6-bit quantization
 - Web search Provider: [Tavily](https://tavily.com)
