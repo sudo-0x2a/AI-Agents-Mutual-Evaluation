@@ -11,7 +11,7 @@ This project is a refined version of my school project. It is a simple and strai
 
 ## Usage:  
 - Install the required packages (requirments.txt).
-- You need to set up your OpenAI style API key and Tavily API key in the .env file. Theoretically, the project supports any LLM provider that uses OpenAI style API like LM Studio and OpenRouter. But this does not mean it supports any models.
+- You need to set up your OpenAI style API key and Tavily API key in the .env file. Theoretically, the project supports any LLM providers that uses OpenAI style API like LM Studio and OpenRouter. But this does not mean it supports any models.
 - Run the main.py file.
 - Provide the model name and the question for the contest. (You can assign two same models for the competition as well.)
 
