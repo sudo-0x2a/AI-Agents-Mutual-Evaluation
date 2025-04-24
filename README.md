@@ -7,7 +7,7 @@ completion data: 04/24/2025
 This project is a refined version of my school project. It is a simple and straightforward program to let two AI agents evaluate each other's answers to a question that is provided by a human. The agents come with the ability to use a search tool to retrieve online information and provide structured output for the evaluation. This is also a practice for me to hands on a modern LLM agent framework like LangChain/LangGraph.
 
 
-*Based on my experiments, each model has a different bias towards tool calls. The model with high bias on tool calling may even not follow the instruction from the system prompt. Also, smaller size models are harder to control. I think the smaller models just lack the ability to route their decisions.
+*Based on my experiments, each model has a different bias towards tool calls. The model with high bias on tool calling may even not follow the tool use instruction from the system prompt. Also, smaller size models are harder to control. I think the smaller models just lack the ability to route their decisions.
 
 ## Usage:  
 - Install the required packages (requirments.txt).
