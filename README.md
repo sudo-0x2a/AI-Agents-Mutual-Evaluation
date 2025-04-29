@@ -1,6 +1,6 @@
 ---
 author: Ori.Terran
-completion data: 04/24/2025
+completion date: 04/24/2025
 ---
 
 # AI Agents Mutual Evaluation
